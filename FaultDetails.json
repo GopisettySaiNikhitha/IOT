@@ -1,0 +1,26 @@
+[ 
+{ 
+"VIN" : "1GNEK13Z53R100031",
+"Vehicle Manufacture" : "CHEVROLET",
+"Year Of Manufacture" : "2003",
+"Model" : "Tahoe",
+"Fuel Management" : "Direct Injection",
+"DTC Code" : "P0300",
+"PTC Code" : "P0101",
+"Maintenance Id" : "MNT001",
+"Maintenance Type" : "Oil Change",
+"Year Of Purchase" : "2018"
+},
+{
+"VIN" : "3FA6P0SU7HR220001",
+"Vehicle Manufacture" : "Ford",
+"Year Of Manufacture" : "2017",
+"Model" : "Fusion",
+"Fuel Management" : "Direct Injection",
+"DTC Code" : "P0420",
+"PTC Code" : "P0120",
+"Maintenance Id" : "MNT002",
+"Maintenance Type" : "Brake Check",
+"Year Of Purchase" : "2019"
+}
+]
