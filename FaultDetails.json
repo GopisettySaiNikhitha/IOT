@@ -22,5 +22,17 @@
 "Maintenance Id" : "MNT002",
 "Maintenance Type" : "Brake Check",
 "Year Of Purchase" : "2019"
+},
+  {
+"VIN" : "JM1BK32F781115723",
+"Vehicle Manufacture" : "Mazda",
+"Year Of Manufacture" : "2008",
+"Model" : "Mazda3",
+"Fuel Management" : "Direct Injection", 
+"DTC Code" : "P0171",
+"PTC Code" : "P0130",
+"Maintenance Id" : "MNT003",
+"Maintenance Type" : "Tire Rotation",
+"Year Of Purchase" : "2021"
 }
 ]
